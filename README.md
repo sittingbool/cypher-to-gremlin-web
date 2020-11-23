@@ -11,6 +11,10 @@ A very simple web interface to convert cypher queries to gremlin for Azure Cosmo
 Build it with `docker build -t cypher-gremlin-translator .` and run with
 ` docker run -p 8080:8080 -it cypher-gremlin-translator`.
 
+## Contribute
+
+Contribution welcome to maintain and extend this!
+
 ## Licence
 
 MIT
